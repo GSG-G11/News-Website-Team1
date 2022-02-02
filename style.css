@@ -1,6 +1,6 @@
 body {
     line-height: 1.5;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
 }
 
 * {
@@ -24,7 +24,7 @@ ul {
 }
 
 .footer {
-    background-color: #0E1E32;
+    background-color: #0e1e32;
     padding: 70px 0;
     position: absolute;
     bottom: 0;
