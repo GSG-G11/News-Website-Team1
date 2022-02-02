@@ -144,7 +144,6 @@ ul {
     background-color: #0e1e32;
     padding: 70px 0;
     position: absolute;
-    bottom: 0;
     width: 100%;
 }
 
@@ -226,3 +225,4 @@ ul {
 .footer-logo {
     text-align: center;
 }
+
